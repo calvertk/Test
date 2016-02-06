@@ -2,11 +2,8 @@ Cold and dry, but everything is my favorite color
 Purple monkey dishwashers seem to have invaded this planet already
 Good thing they left it clean
 Ilike Nano Git add a lineo
-<<<<<<< HEAD
 Adding a conflict
 adding a nother line
-=======
 adding conflict
 modifying the file again
->>>>>>> 6f0f2440745d1749c1b98ffd7a3d522fce3ae827
 add a command
